@@ -1,0 +1,18 @@
+body {
+      margin: auto;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+}
+
+.container {
+         
+      border: groove lightgray 1px;
+}
+
+
+
+.painted{
+      background-color: #181818;
+}
